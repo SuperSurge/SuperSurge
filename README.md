@@ -2,6 +2,8 @@
 
 🌱 I’m currently learning cs, ml...
 
+⚡ Fun fact: latter better than never
+
 😄 Welcome!
 <!--
 **SuperSurge/SuperSurge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
