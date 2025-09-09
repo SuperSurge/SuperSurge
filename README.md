@@ -1,4 +1,4 @@
-## Hi there is Surge👋
+## Hi I'm Surge👋
 
 🌱 I’m currently learning cs, ml...
 
