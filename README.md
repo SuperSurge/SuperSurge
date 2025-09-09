@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there is Surge👋
 
+🌱 I’m currently learning cs, ml...
+
+😄 Welcome!
 <!--
 **SuperSurge/SuperSurge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
